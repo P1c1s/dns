@@ -131,4 +131,3 @@ if [ "$input" -eq "4" ]; then
        sudo iptables -D OUTPUT 1
     done
 fi
-pi@ServerWeb:~/Progetti/dns $ 
